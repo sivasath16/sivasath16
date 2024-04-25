@@ -1,9 +1,9 @@
-![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)]
+![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1 align="center">Hi 👋, I'm Siva Sathwik</h1>
 <h3 align="center">I am an MSCS student at Stony Brook University with a year of experience as an Associate Site Reliability Engineer, specializing in VM automation and monitoring in cloud environments. I have a strong foundation in DevOps, and experience in developing mobile and web applications, including a file-sharing app and portfolio websites. Additionally, I have created chatbots using Python Rasa.</h3>
 
-img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasath16&label=Profile%20views&color=0e75b6&style=flat" alt="sivasath16" /> </p>
