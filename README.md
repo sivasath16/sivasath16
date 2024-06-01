@@ -3,12 +3,11 @@
 <h1 align="center">Hi 👋, I'm Siva Sathwik</h1>
 <h3 align="center">I am an MSCS student at Stony Brook University with a year of experience as an Associate Site Reliability Engineer, specializing in VM automation and monitoring in cloud environments. I have a strong foundation in DevOps, and experience in developing mobile and web applications, including a file-sharing app and portfolio websites. Additionally, I have created chatbots using Python Rasa.</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasath16&label=Profile%20views&color=0e75b6&style=flat" alt="sivasath16" /> </p>
 
 - 🔭 I’m currently working on **NLP**
+
+- 👨‍💻 Portfolio [https://sivasath16.github.io/](https://sivasath16.github.io/)
 
 - 📫 How to reach me **sivasathwikedu@gmail.com**
 
@@ -28,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasath16&show_icons=true&locale=en" alt="sivasath16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasath16&" alt="sivasath16" /></p>
+
