@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasath16&label=Profile%20views&color=0e75b6&style=flat" alt="sivasath16" /> </p>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **Web Dev, Cloud and ML**
 
 - 👨‍💻 Portfolio [https://sivasath16.github.io/](https://sivasath16.github.io/)
 
