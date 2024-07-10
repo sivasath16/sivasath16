@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sivasathwikedu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cFtNhcrXck_acWe2nHI-mpcxznRzQSbU/view?usp=drive_link](https://drive.google.com/file/d/1cFtNhcrXck_acWe2nHI-mpcxznRzQSbU/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://tinyurl.com/sivasathkres)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
